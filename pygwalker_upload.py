@@ -13,9 +13,9 @@ st.set_page_config(
 st.title("Data Visualization Explorer")
 
 # st.subheader("You can explore your file")
-st.write("Please, upload your CSV file here!")
+# st.write("Please, upload your CSV file here!")
 with st.expander("Description:", expanded=True):
-    st.markdown("In this page, you can do exploration of Data Visualization with your dataset.")
+    st.markdown("In this page, you are provided with tools to be able to do Data Visualization exploration with your dataset.")
     
 
 def load_data(data):
