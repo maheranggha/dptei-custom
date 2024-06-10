@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("Data Visualization Explorer")
+st.title("Custom Data Visualization Explorer")
 
 # st.subheader("You can explore your file")
 # st.write("Please, upload your CSV file here!")
